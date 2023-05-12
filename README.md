@@ -28,8 +28,6 @@ To run this app on your local machine, follow these steps:
 - Cloudinary
 - Multer
 - PostgreSQL
-- HTML
-- CSS
 
 ## Credits
 
